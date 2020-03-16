@@ -1,0 +1,10 @@
+.AddFolder {
+    height: 50px;
+    text-align: center;
+    margin-top: 40%;
+}
+
+button {
+    border-radius: 10px;
+    margin: 5px;
+}
